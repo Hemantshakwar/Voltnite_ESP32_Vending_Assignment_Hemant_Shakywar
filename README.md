@@ -84,11 +84,11 @@ The following pin mapping matches the updated firmware:
   GPIO 26                 Product B button        Button between GPIO 26
                                                   and GND
 
-  GPIO 19                 Green status LED        GPIO 19 → 220 Ω
+  GPIO 19                 Green status LED        GPIO 19 → 330 Ω
                                                   resistor → LED anode;
                                                   LED cathode → GND
 
-  GPIO 18                 Red vending LED         GPIO 18 → 220 Ω
+  GPIO 18                 Red vending LED         GPIO 18 → 330 Ω
                                                   resistor → LED anode;
                                                   LED cathode → GND
 
